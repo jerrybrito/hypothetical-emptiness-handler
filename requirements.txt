@@ -1,0 +1,2 @@
+# Requires: abstract-postponement
+# (Not available on PyPI)
